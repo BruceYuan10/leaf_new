@@ -1,8 +1,8 @@
 package cluster
 
 import (
-	"github.com/BruceYuan10/leaf_vg/conf"
-	"github.com/BruceYuan10/leaf_vg/network"
+	"github.com/BruceYuan10/leaf_new/conf"
+	"github.com/BruceYuan10/leaf_new/network"
 	"math"
 	"time"
 )

@@ -1,10 +1,10 @@
 package module
 
 import (
-	"github.com/BruceYuan10/leaf_vg/chanrpc"
-	"github.com/BruceYuan10/leaf_vg/console"
-	g "github.com/BruceYuan10/leaf_vg/go"
-	"github.com/BruceYuan10/leaf_vg/timer"
+	"github.com/BruceYuan10/leaf_new/chanrpc"
+	"github.com/BruceYuan10/leaf_new/console"
+	g "github.com/BruceYuan10/leaf_new/go"
+	"github.com/BruceYuan10/leaf_new/timer"
 	"time"
 )
 
